@@ -65,5 +65,5 @@ solution:
   packs:
     - pack: Keil::STM32F746G-DISCO_BSP
     - pack: Keil::STM32F7xx_DFP
-    - pack: ARM::CMSIS
+    - pack: ARM::CMSIS@6.4.0
   compiler: AC6
